@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbey2u
-- 👀 I’m interested in back end development
-- 🌱 I’m currently learning and working Java and Spring framework
+- 👀 I’m a Backend developer
+- 🌱 I’m currently learning and working with Java and Spring/Springboot
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email: kaybiel4u@gmail.com and Twitter: @kaybiel4u
 
